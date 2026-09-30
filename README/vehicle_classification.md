@@ -333,10 +333,12 @@ Training on this kind of data would make the system more robust and suitable for
 
 
 
+
 ## Credits
 
-**Author:** Renad Alsaif
-
-This project was developed by **Renad Alsaif** as part of the **SDAIA Academy** program.
-
-**SDAIA Academy:** https://github.com/SDAIAAcademy
+* **Author:** Renad Alsaif
+* **Program:** SDAIA Academy
+* **SDAIA Academy:** https://github.com/SDAIAAcademy
+* **Dataset:** Vehicle Classification Dataset
+* **Dataset Author:** Mohamed Maher
+* **Dataset Source:** https://www.kaggle.com/datasets/mohamedmaher5/vehicle-classification
